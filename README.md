@@ -12,7 +12,7 @@ Please visit paper from the link.
 # Dataset License
 
 LegalViz dataset annotations are distributed under CC BY-SA 4.0. 
-When you create any derivations, e.g., datasets, papers, etc, from JDocQA, please cite our paper accordingly. If your derivations are web-based projects, please cite our paper and include the link to this github page.
+When you create any derivations, e.g., datasets, papers, etc, from LegalViz, please cite our paper accordingly. If your derivations are web-based projects, please cite our paper and include the link to this github page.
 
 
 # Download
