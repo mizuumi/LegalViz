@@ -25,9 +25,9 @@ Annotations can be downloaded from [Here](dataset/).
 ## Annotated files
 
 ```
-dataset/legalviz_train.json
-dataset/legalviz_valid.json
-dataset/legalviz_test.json
+dataset/legalviz_train.jsonl
+dataset/legalviz_valid.jsonl
+dataset/legalviz_test.jsonl
 ```
 
 ## Annotation entries
