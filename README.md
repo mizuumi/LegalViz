@@ -46,10 +46,23 @@ dataset/legalviz_test.jsonl
 # Citation
 
 ```
-@inproceedings{onami2025naacl,
-  title={LegalViz: Legal Text Visualization by Text To Diagram Generation},
-  author={Onami, Eri and Miyanishi, Taiki and Maeda, Koki and Kurita, Shuhei},
-  booktitle={Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)},
-  year={2025}
+@inproceedings{onami-etal-2025-legalviz,
+    title = "{L}egal{V}iz: Legal Text Visualization by Text To Diagram Generation",
+    author = "Onami, Eri  and
+      Miyanishi, Taiki  and
+      Maeda, Koki  and
+      Kurita, Shuhei",
+    editor = "Chiruzzo, Luis  and
+      Ritter, Alan  and
+      Wang, Lu",
+    booktitle = "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    month = apr,
+    year = "2025",
+    address = "Albuquerque, New Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.naacl-long.339/",
+    pages = "6657--6676",
+    ISBN = "979-8-89176-189-6"
 }
+
 ```
